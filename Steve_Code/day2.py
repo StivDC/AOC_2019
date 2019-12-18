@@ -22,4 +22,4 @@ for i in range(0, len(k), 4):
 			k[a] = k[b] + k[c]
 		elif k[i] == 2:
 			k[a] = k[b] * k[c]
-print(k)
+print(k[0])
