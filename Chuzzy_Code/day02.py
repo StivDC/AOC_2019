@@ -1,5 +1,3 @@
-import sys
-
 memory = [int(cell) for cell in open("day02input.txt", "r").readline().split(",")]
 
 # Undo HCF instruction
